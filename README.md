@@ -12,4 +12,4 @@ List of functions:
 
 3. PAS interpolation algorithm that interpolates mortality rates from a range of two Mx vectors
 
-4. Life Table function - complete or abridged. Holds two functions: I. life table by Mx input.  II. life table by qx input.
+4. Life Table function - complete or abridged. Holds two functions:  1.life table by Mx input.  2.life table by qx input.
